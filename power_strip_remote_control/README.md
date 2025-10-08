@@ -17,4 +17,6 @@ nodemcu
 이미지추가
 
 ## 결과  
-이미지추가
+
+
+![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/power_strip_remote_control/%EA%B2%B0%EA%B3%BC.png)

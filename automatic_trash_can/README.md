@@ -14,7 +14,7 @@ LED
 아두이노 IDE  
 
 ## 회로도  
-이미지추가
+![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/automatic_trash_can/%ED%9A%8C%EB%A1%9C%EB%8F%84.png)
 
 ## 결과  
-![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/automatic_trash_can/%EA%B2%B0%EA%B3%BC.png)
+![V3](https://github.com/kbc7993/Arduino-Projects/blob/master/automatic_trash_can/%EA%B2%B0%EA%B3%BC.png)

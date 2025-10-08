@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <DHT.h>
 
-const char* ssid = "SK_WiFiGIGA0E18";
-const char* password = "1910014458";
+const char* ssid = "***********";
+const char* password = "*****";
 WiFiServer server(80);
 WiFiClient client;
 

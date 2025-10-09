@@ -17,12 +17,20 @@ led
 아두이노 IDE  
 
 ## 제작과정
--주제선정 및 코드제작  
-![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/dust_sensor/%ED%9A%8C%EB%A1%)  
--외관설계  
--설명서제작 및 키트포장 
-### 외관설계  
-![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/dust_sensor/%ED%9A%8C%EB%A1%9C%EB%8F%84.png)
+-주제선정 코드작성 및 외관설계  
+![V1](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/1.%20%EC%99%B8%EA%B4%80%EC%84%A4%EA%B3%84.png)  
+![V2](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/1.%20%EC%BD%94%EB%93%9C%EC%9E%91%EC%84%B1.png)  
+
+-외관 및 설명서 제작  
+![V3](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/2.%20%EC%99%B8%EA%B4%80%EC%A0%9C%EC%9E%91.png)  
+![V4](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/2.%20%EC%84%A4%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91.png)  
+
+-키트포장  
+![V5](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/3.%20%ED%82%A4%ED%8A%B8%ED%8F%AC%EC%9E%A5.png)  
 
 ## 결과  
-![V2](https://github.com/kbc7993/Arduino-Projects/blob/master/dust_sensor/%EA%B2%B0%EA%B3%BC.png) 
+-교육진행  
+![V5](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/%EA%B2%B0%EA%B3%BC.png)  
+
+-만족도조사  
+![V5](https://github.com/kbc7993/Arduino-Projects/blob/master/arduino_education_kit/%EA%B2%B0%EA%B3%BC1.png)  
